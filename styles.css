@@ -54,3 +54,12 @@ a {
   text-decoration: none;
   color: white;
 }
+
+.title-contacto {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}
+
+.contacto p {
+  margin: 1px;
+}
